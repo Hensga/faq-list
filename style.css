@@ -73,6 +73,7 @@ li {
 
 .main-p {
   font-size: 1.2em;
+  margin-bottom: 15px;
 }
 
 .search-container {
@@ -88,6 +89,8 @@ li {
   border-bottom-left-radius: 10px;
   background-color: lightskyblue;
   width: 80%;
+  font-size: 1em;
+  font-family: sans-serif;
 }
 
 .search-container button {
