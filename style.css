@@ -112,6 +112,11 @@ li {
   background-color: lightskyblue;
 }
 
+.recently {
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
 /* Grid */
 .faq-grid {
   display: grid;
