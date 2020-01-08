@@ -77,3 +77,8 @@ li {
 .main-p {
   font-size: 1.2em;
 }
+
+.main input[type='text'] {
+  padding: 6px;
+  width: 100%;
+}
