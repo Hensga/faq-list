@@ -38,6 +38,10 @@ li {
   height: 100vh;
 }
 
+ul > li {
+  cursor: pointer;
+}
+
 .topics {
   list-style: none;
   margin-top: 200px;
