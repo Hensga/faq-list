@@ -50,6 +50,13 @@ li {
   font-size: 0.8em;
 }
 
+.active {
+  border-bottom: 5px solid;
+  width: 100px;
+  border-color: lightskyblue;
+  padding-bottom: 5px;
+}
+
 .home {
   text-align: center;
   text-transform: uppercase;
